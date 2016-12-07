@@ -6,4 +6,8 @@
     <color name="color_item_press">#6699FF</color>
     <color name="color_item_normal">#6699FF</color>
     <color name="color_red"> #FF0000</color>
+    <color name="Orange">#e75946</color>
+    <color name="Yellow">#f4d227</color>
+    <color name="Blue">#4674e7</color>
+    <color name="Green">#0ba62c</color>
 </resources>

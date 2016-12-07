@@ -1,4 +1,4 @@
-package com.deeny.test.recyclerviewdemo;
+package com.deeny.test.recyclerviewdemo.driver;
 
 import android.content.Context;
 import android.content.res.TypedArray;

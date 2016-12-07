@@ -6,3 +6,9 @@
 .DS_Store
 /build
 /captures
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
